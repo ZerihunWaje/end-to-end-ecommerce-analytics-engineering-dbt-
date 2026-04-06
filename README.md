@@ -9,7 +9,6 @@ Synthetic transaction data is generated using Python, with intentional data qual
 ---
 
 ## 🧱 Architecture: Medallion Design
-## 🏗️ Pipeline Architecture
 
 ![Medallion Architecture](Medallion_Architecture/Medallion_Architecture.png)
 
