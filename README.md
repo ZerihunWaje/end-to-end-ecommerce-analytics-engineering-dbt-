@@ -207,7 +207,7 @@ CI/CD pipelines (e.g., GitHub Actions) were not implemented, but all required mo
 ## 👤 Author
 
 **ZerihunWaje**
-Aspiring Analytics Engineer
+Analytics Engineer
 
 ---
 
